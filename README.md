@@ -159,8 +159,4 @@ Possible extensions:
 -   vLLM comparison
 -   TensorRT‑LLM benchmarking
 
-------------------------------------------------------------------------
 
-## License
-
-MIT
